@@ -1,5 +1,5 @@
 channel_name = "Channel_You_Want_To_Connect_To"# This will be you channel, or a channel you are connecting too
-oauth = "oauth:************" # You will find this here: https://twitchapps.com/tmi/#access_token=33ypr9vw3ansarhl0yqatyf409sj52&scope=chat_login
+oauth = "oauth:************" # You will find this here: https://twitchapps.com/tmi
 nickname = "Channel_Wich_Has_Answers_The_Command"# This will be the channel you want to answer the command, i.e for me it would be nexchatbot
 client_id = "************" # You don't need to add this but if you have an app on twitchdevs website add the 'client+id' in here
 
